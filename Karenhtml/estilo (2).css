@@ -1,0 +1,150 @@
+.tt{
+    color:blueviolet;
+    text-align: center;
+    font-size: 50px;
+    background-color: #AF7AC5 ;
+}
+
+.botones{
+    background-color:#A569BD;
+    padding:2px;
+    border:3px solid;
+    color:black;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.anun{
+    color:darkorchid;
+    text-align: center;
+    font-size:30px;
+}
+.PROMOCION{
+    color:#7D3C98;
+    text-align: center;
+    font-size: 50PX;
+}
+
+.promo{
+    color:mediumslateblue;
+    text-align: center;
+    font-size:30PX;
+}
+.q{
+    color: mediumslateblue;
+    text-align: center;
+    font-size: 30px;
+    }
+body{
+  background-image:url(bc98faaf-7a62-408e-a192-17c44133aeed.jpg);
+  left: 400px;
+  font-family: 'Times New Roman', Times, serif;
+  background-repeat: no-repeat;
+  background-size: 2000px;
+}
+.POP{
+   background-color: blueviolet;
+   padding: 2PX;
+   border: 3PX solid;
+   color: orchid;
+   font-weight: bold;
+   border-radius: 15px;
+   font-size: 20px;
+}
+.imagende{
+    width: 500px;
+}
+.NOSCONTAC{
+    color:darkslateblue;
+    text-align: center;
+    font-size:30PX;
+}
+
+IMG{
+position: absolute;
+right: 900PX;
+width: 150PX;
+left: 400px;
+}
+.uno{
+    position:absolute;
+    bottom: 100px;
+    right: 50px;
+}
+.letra{
+    color:blueviolet;
+    text-align: center;
+    font-size: 30px;
+} 
+.Sub{
+    color:rebeccapurple;
+    text-align: center;
+    font-size: 200px;
+
+}
+.dos{
+   background-image:url(b7117b9c00a117225ed52a475338e062.jpg);
+
+;
+}
+.titulo2{
+    color:darkorchid;
+    text-align: center;
+    font-size: 150px;
+}
+.tres{
+    background-image:url(b775b56b-8fec-4019-a231-43658932f056.jpg);
+    left: 100px;
+    font-family: 'Times New Roman', Times, serif;
+  background-repeat: no-repeat;
+  background-size: 100% 100vh ;
+  
+
+}
+.cuatro{
+    background-image:url(cultura-pop.jpg);
+}
+.pre{
+    color:crimson;
+    text-align: center;
+    font-size: 25px;
+}
+.P{
+    text-align: center;
+    color:azure;
+    font-size: 25px;
+}
+.ani{
+    text-align: center;
+}
+.an{
+    text-align: center;
+}
+.anini{
+    background-image:url(anime1.jpg);
+   font-size: 48px;
+   background-size: 1000px;
+}
+.imagenanime{
+    text-align: center;
+    font-size: 500px;
+}
+.titulo2{
+    text-align: center;
+    color:aqua;
+    font-size: 55px;
+}
+.for{
+    text-align: center;
+    color:#7D3C98;
+    font-size: 55px;
+
+}
+.Aj{
+    font-size: 30px;
+    text-align: center;
+    color:aliceblue;
+}
+
